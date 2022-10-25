@@ -1,0 +1,15 @@
+numpy
+torch
+torchaudio
+torchvision
+einops
+einops_exts
+pytorch-fast-transformers
+dask
+tqdm
+wandb
+soundfile
+pyloudnorm
+scipy
+librosa
+triton

@@ -1,0 +1,2 @@
+from vq.residual_vq import ResidualVQ
+from vq.vector_quantize_pytorch import VectorQuantize
